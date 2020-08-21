@@ -1,0 +1,141 @@
+#header {
+position:relative;
+clear: both;
+margin: 0px 0em 0px 0em;
+padding: 0;
+height: 70px;
+width:1200px;
+background:white;
+font: 95% Lucida Handwriting,Verdana,Tahoma,Arial,sans-serif;
+}
+
+
+
+body {
+width: 1200px;
+height: 700px;
+margin: 0 auto;
+padding: 0;
+background: repeat center url('../images/bg8.jpg');
+font: 76% Verdana,Tahoma,Arial,sans-serif;
+}
+
+#header h3 {
+width: 350px;
+margin: 0px 0px 0px 15px;
+float: left;
+}
+
+#header p {
+width: 500px;
+float: right;
+text-align: center;
+color: #a0a0a0;
+margin: 0px 0px 0px 0px;
+font-size: 0.8em;
+line-height: 1.2em;height: 35px;}
+
+
+
+#avmenu {
+clear: left;
+float: left;
+width: 110px;
+margin: 0 0 10px 0;
+padding: 0;
+font-family:calibri;
+font-size:1.0em;
+}
+	
+#avmenu ul  {
+    position:fixed;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1A170f;
+    position: relative;
+    top: 0.25px;
+    width: 1200px;
+}
+
+#avmenu li {
+    float: left;
+
+margin-bottom: 0px;}
+
+#avmenu li a {
+	font-size: 25;
+    display: block;
+    color: #f7c413;
+    text-align: center;
+    padding: 10px 45px;
+    text-decoration: none;
+}
+
+#avmenu li a:hover {
+	background-color: yellow;
+	color:black;
+    }
+
+
+
+
+
+
+
+h3 {
+font-size: 1.3em;
+margin: 0 0 10px 0;
+}
+
+a {
+text-decoration: none;
+color:yellow;
+
+}
+
+a:hover {
+text-decoration: underline;
+color: white;
+}
+
+
+
+
+.left {
+margin: 0px 7px 0px 5px;
+float: left;
+}
+
+.right {
+margin: 0px 7px 0px 5px;
+float: right;
+}
+
+.textright {
+text-align: right;
+}
+
+.center {
+text-align: center;
+}
+
+.small {
+font-size: 0.8em;
+}
+
+.bold {
+font-weight: bold;
+}
+
+.hide {
+display: none;
+}
+
+
+
+
+
+
+
